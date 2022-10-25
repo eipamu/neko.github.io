@@ -48,3 +48,67 @@ nav li{
 .last-child{
     border-right: 1px dotted black;
 }
+.container{
+    width:800px;
+    margin:0px auto;
+    display:flex;
+}
+
+.item01{
+    width: 70%;
+}
+
+.item01 h2{
+    text-align: center;
+    border-bottom: 1px solid navy;
+}
+
+.item01 img{
+    width:99%;
+}
+
+.item02{
+    width: 22%;
+}
+
+.item02 h2{
+    font-size:17px;
+    text-align: center;
+}
+
+.item02 ul{
+    list-style-type: none;
+    padding-left: 0%;
+}
+
+.item02 li{
+    border-bottom: 1px dotted black;
+}
+
+.article-container{
+    display: flex;
+}
+
+.article-item{
+    width: 47%;
+}
+
+.article-item img{
+    width: 99%;
+}
+
+.article-item p{
+    text-align: center;
+}
+
+footer{
+    width:100%;
+    background-color:	#E0FFFF ;
+    margin: 0px;
+}
+
+footer h2{
+    text-align: center;
+    padding: 30px 0px;
+    font-size: 16px;
+}
