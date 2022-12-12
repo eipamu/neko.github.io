@@ -74,12 +74,12 @@ nav li{
 .item02 h2{
     font-size:17px;
     text-align: center;
-    padding-left:40%;
+    padding-left:0%;
 }
 
 .item02 ul{
     list-style-type: none;
-    padding-left: 40%;
+    padding-left: 0%;
 }
 
 .item02 li{
