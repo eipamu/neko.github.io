@@ -49,7 +49,7 @@ nav li{
     border-right: 1px dotted black;
 }
 .container{
-    width:800px;
+    width:1200px;
     margin:0px auto;
     display:flex;
 }
@@ -74,11 +74,12 @@ nav li{
 .item02 h2{
     font-size:17px;
     text-align: center;
+    padding-left:40%;
 }
 
 .item02 ul{
     list-style-type: none;
-    padding-left: 0%;
+    padding-left: 40%;
 }
 
 .item02 li{
