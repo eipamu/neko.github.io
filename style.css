@@ -49,7 +49,7 @@ nav li{
     border-right: 1px dotted black;
 }
 .container{
-    width:1200px;
+    width:1000px;
     margin:0px auto;
     display:flex;
 }
